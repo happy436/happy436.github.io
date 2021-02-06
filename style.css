@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+body {
+    position: relative;
+    width: 1280px;
+    height: 1399px;
+    font-family: montserrat;
+    background: #F5F7FA;
+    font-family: 'Montserrat',sans-serif;
+}
+figure img {
+    position: absolute;
+    width: 370px;
+    height: 354px;
+    left: 0px;
+    top: 40px;
+    
+}
+img{
+    position: absolute;
+    width: 370px;
+    height: 354px;
+    top: 40px;
+    
+
+
+}
+aside{
+    position: absolute;
+    width: 370px;
+    height: 1319px;
+    top:0px;
+    color:white;
+
+    background: #1E2939;
+}
+
+.contacts{
+    position: absolute;
+    width: 183px;
+    height: 83px;
+    left: 40px;
+    top: 445px;
+    font-size: 14px;
+}
+
+.techskills{
+    position: absolute;
+    width: 121px;
+    height: 203px;
+    left: 40px;
+    top: 575px;
+}
+
+.softskills{
+    position: absolute;
+    width: 113px;
+    height: 131px;
+    left: 40px;
+    top: 822px;
+}
+
+.main{
+    position: absolute;
+    width: 1200px;
+    height: 1319px;
+    left: 40px;
+    top: 40px;
+
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.info{
+    position: absolute;
+    left:458px;
+}
+
+.aboutme{
+    position: absolute;
+    width: 400px;
+    height: 230px;
+    top:102px;
+
+}
+
+.projects{
+    position: absolute;
+    width: 485px;
+    height: 107px;
+    top:372px;
+}
+
+.workexp1{
+    position: absolute;
+    width: 525px;
+    height: 213px;
+    top:530px;
+
+}
+.workexp2{
+    position: absolute;
+    width: 525px;
+    height: 150px;
+    top:759px;
+
+}
+.workexp3{
+    position: absolute;
+    width: 525px;
+    height: 126px;
+    top:929px;
+
+}
+
+.educ{
+    position: absolute;
+    width: 327px;
+    height: 114px;
+    top:1098px;
+
+}
+
+h1{
+    font-size: 45px;
+    font-weight: bold;
+    margin-block-start: 0em;
+    margin-block-end: 24px;
+}
+
+
+h2{
+    font-size:14px;
+    font-weight: bold;
+    margin-block-start: 0em;
+    margin-block-end: 19px;
+}
+
+h3.h3pr{
+    font-size:22px;
+    margin-block-start: 0em;
+    margin-block-end: 8px;
+}
+
+h3 {
+    font-size: 22px;
+    margin-block-start: 0em;
+    margin-block-end: 12px;
+}
+
+h3.cn{
+    margin-block-end: 8px;
+}
+
+h4{
+    margin-block-start: 0em;
+    margin-block-end: 11px;
+}
+
+h5{
+
+}
+
+h6{
+
+}
+
+p{
+    font-size: 14px;
+}
+
+ol{
+        padding-inline-start: 15px;
+}
+
+ul{
+    padding-inline-start: 15px;
+}
+
+a{
+    font-size: 14px;
+}
+
+span{
+    font-size: 14px;
+}
+
+::marker{
+    color:orange;
+}
+
+.orange{
+    color:rgba(251, 109, 58, 1);
+    font-size:16px;
+    font-weight: bold;
+}
